@@ -4,7 +4,7 @@ A function to lookup the currency symbol for a given currency code and vice vers
 
 ## Installation
 
-    npm install currency-symbol-map
+    npm install currency-symbol-mapper
 
 ## Usage
 
@@ -64,6 +64,4 @@ npm test
 
 ## Credits
 
-Currency symbols originally sourced from [xe](http://www.xe.com/symbols.php), but maintained
-and updated by Ben Gourley (https://github.com/bengourley/currency-symbol-map).
-Forked and modified by [contributors](https://github.com/gnbonney/currency-symbol-map/pulls?q=is%3Apr+is%3Aclosed).
+Forked from project maintained by Ben Gourley (https://github.com/bengourley/currency-symbol-map).
